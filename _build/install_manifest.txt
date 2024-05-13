@@ -1,0 +1,4 @@
+/home/meguai/meguaii/workspace/projects/lab03/_install/lib/libprint.a
+/home/meguai/meguaii/workspace/projects/lab03/_install/include/print.hpp
+/home/meguai/meguaii/workspace/projects/lab03/_install/cmake/print-config.cmake
+/home/meguai/meguaii/workspace/projects/lab03/_install/cmake/print-config-noconfig.cmake
